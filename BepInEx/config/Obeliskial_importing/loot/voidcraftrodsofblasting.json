@@ -1,0 +1,10 @@
+{
+    "ID": "voidcraftrodsofblasting",
+    "DefaultPercentEpic": 0,
+    "DefaultPercentMythic": 0,
+    "DefaultPercentRare": 0,
+    "DefaultPercentUncommon": 0,
+    "GoldQuantity": 0,
+    "LootItemTable": ["{\n \"LootCard\": \"rodofblasting\",\n \"LootPercent\": 100.0,\n \"LootRarity\": \"Common\",\n \"LootType\": \"Weapon\"\n}","{\n \"LootCard\": \"rodofblasting\",\n \"LootPercent\": 100.0,\n \"LootRarity\": \"Common\",\n \"LootType\": \"Weapon\"\n}"],
+    "NumItems": 2
+}

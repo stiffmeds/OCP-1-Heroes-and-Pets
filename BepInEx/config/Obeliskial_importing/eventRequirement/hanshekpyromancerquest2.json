@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekpyromancerquest2",
+    "AssignToPlayerAtBegin": false,
+    "Description": "Hanshek has retrieved the special staff from Velkarath, but its power has faded with time. Perhaps some kind of master smith could restore it to its former glory?",
+    "ItemSprite": "",
+    "RequirementName": "The Special Staff",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-hanshek",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

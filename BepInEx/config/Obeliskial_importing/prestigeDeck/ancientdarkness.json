@@ -1,0 +1,6 @@
+{
+	"ID": "ancientdarkness",
+	"Name": "Ancient Darkness",
+	"Traits": ["hanshekdarkrituals"],
+	"Cards": ["ancientdarknessamplifiedagony", "ancientdarknessblackpyre", "ancientdarknessdarkconstraint", "ancientdarknessdarkcremation", "ancientdarknessdarklightning", "ancientdarknessfear", "ancientdarknesshellfire", "ancientdarknessinferno", "ancientdarknessloss", "ancientdarknessnightfall", "ancientdarknessprey", "ancientdarknesssharedsuffering", "ancientdarknesstouchofthegrave", "ancientdarknesstwilightslaughter", "ancientdarknesswither"]	
+}

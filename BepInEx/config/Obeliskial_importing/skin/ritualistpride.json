@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "skinHanshekPride",
+    "SkinID": "ritualistpride",
+    "SkinName": "Pride",
+    "SkinOrder": 4,
+    "SkinSubclass": "ritualist",
+    "Sku": "",
+    "SpritePortrait": "ritualistPrideSpriteSpeed",
+    "SpritePortraitGrande": "ritualistPrideSpritePortrait",
+    "SpriteSilueta": "ritualistPrideSpriteBorderSmall",
+    "SpriteSiluetaGrande": "ritualistPrideSpriteBorder",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "wrangerRedesignHero",
+    "SkinID": "hunterbase",
+    "SkinName": "Binks",
+    "SkinOrder": 0,
+    "SkinSubclass": "hunter",
+    "Sku": "",
+    "SpritePortrait": "LoboCazadorAliadoportrait",
+    "SpritePortraitGrande": "LoboCazadorAliadoportraitGrande",
+    "SpriteSilueta": "LoboCazadorAliadosilueta",
+    "SpriteSiluetaGrande": "LoboCazadorAliadosiluetaGrande",
+    "SteamStat": ""
+}

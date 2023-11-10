@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestsuccessaltar2",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone has been empowered by two altars! Now you must \"ring the bell that can't be broken\".",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-hanshek",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

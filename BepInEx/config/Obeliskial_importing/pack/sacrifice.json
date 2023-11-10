@@ -1,0 +1,15 @@
+{
+    "Card0": "ancientdarknessprey",
+    "Card1": "ancientdarknesstwilightslaughter",
+    "Card2": "ancientdarknesssharedsuffering",
+    "Card3": "ancientdarknessloss",
+    "Card4": "darkritual",
+    "Card5": "lifetap",
+    "CardSpecial0": "deathcoil",
+    "CardSpecial1": "curseoftorment",
+    "PackClass": "Mage",
+    "PackID": "sacrifice",
+    "PackName": "Sacrifice",
+    "PerkList": ["mainperkpowerfull1b","mainperkenergy1","mainperkdecay1b","mainperkfury1a"],
+    "RequiredClass": ""
+}

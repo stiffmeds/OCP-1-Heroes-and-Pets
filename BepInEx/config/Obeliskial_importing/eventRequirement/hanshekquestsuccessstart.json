@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestsuccessstart",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone requires the power of two altars or an orb of corruption.",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Ulminin"
+}

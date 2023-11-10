@@ -1,0 +1,20 @@
+{
+    "Card0": "huntersmark",
+    "Card1": "deflect",
+    "Card2": "aimedshot",
+    "Card3": "ricochet",
+    "Card4": "camouflage",
+    "Card5": "vanish",
+    "CardSpecial0": "snipershot",
+    "CardSpecial1": "lethalshot",
+    "PackClass": "Scout",
+    "PackID": "marksman",
+    "PackName": "Marksman",
+    "PerkList": [
+        "mainperkmark1b",
+        "mainperkpiercing0",
+        "mainperkvulnerable0b",
+        "mainperkenergy2b"
+    ],
+    "RequiredClass": ""
+}

@@ -1,0 +1,11 @@
+{
+    "RequirementID": "binksquest",
+    "AssignToPlayerAtBegin": false,
+    "Description": "Binks says he will join you on your adventures if you bring him two gems.",
+    "ItemSprite": "",
+    "RequirementName": "Treasure Hunter",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-binks",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidHigh"
+}

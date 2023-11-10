@@ -1,0 +1,10 @@
+{
+    "ID": "lootwhisperingstone",
+    "DefaultPercentEpic": 0,
+    "DefaultPercentMythic": 0,
+    "DefaultPercentRare": 0,
+    "DefaultPercentUncommon": 0,
+    "GoldQuantity": 0,
+    "LootItemTable": ["{\n \"LootCard\": \"whisperingstone\",\n \"LootPercent\": 100.0,\n \"LootRarity\": \"Common\",\n \"LootType\": \"Accesory\"\n}"],
+    "NumItems": 1
+}

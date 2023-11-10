@@ -1,0 +1,15 @@
+{
+    "Card0": "binksscattershot",
+    "Card1": "binksconcussiveshot",
+    "Card2": "aimedshot",
+    "Card3": "camouflage",
+    "Card4": "huntersmark",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Scout",
+    "PackID": "binks",
+    "PackName": "Binks",
+    "PerkList": [],
+    "RequiredClass": "hunter"
+}

@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "skinHanshekClone",
+    "SkinID": "ritualistshadow",
+    "SkinName": "Clone",
+    "SkinOrder": 1,
+    "SkinSubclass": "ritualist",
+    "Sku": "",
+    "SpritePortrait": "ritualistShadowSpriteSpeed",
+    "SpritePortraitGrande": "ritualistShadowSpritePortrait",
+    "SpriteSilueta": "ritualistShadowSpriteBorderSmall",
+    "SpriteSiluetaGrande": "ritualistShadowSpriteBorder",
+    "SteamStat": ""
+}

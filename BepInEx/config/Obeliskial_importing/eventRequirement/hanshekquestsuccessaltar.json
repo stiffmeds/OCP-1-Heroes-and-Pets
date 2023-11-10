@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestsuccessaltar",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone has been empowered by an altar, but still needs another to be complete.",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

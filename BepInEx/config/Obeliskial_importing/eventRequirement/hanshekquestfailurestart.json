@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestfailurestart",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone feels incomplete.",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

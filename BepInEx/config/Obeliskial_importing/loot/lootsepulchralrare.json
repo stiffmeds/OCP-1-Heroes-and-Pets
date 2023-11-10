@@ -1,0 +1,10 @@
+{
+    "ID": "lootsepulchralrare",
+    "DefaultPercentEpic": 0,
+    "DefaultPercentMythic": 0,
+    "DefaultPercentRare": 0,
+    "DefaultPercentUncommon": 0,
+    "GoldQuantity": 0,
+    "LootItemTable": ["{\n \"LootCard\": \"sepulchralspectrerare\",\n \"LootPercent\": 100.0,\n \"LootRarity\": \"Common\",\n \"LootType\": \"Pet\"\n}"],
+    "NumItems": 1
+}

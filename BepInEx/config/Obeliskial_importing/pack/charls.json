@@ -1,0 +1,15 @@
+{
+    "Card0": "charlshealingtotem",
+    "Card1": "flashheal",
+    "Card2": "dispelmagic",
+    "Card3": "zap",
+    "Card4": "electricdischarge",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "charls",
+    "PackName": "Charls",
+    "PerkList": [],
+    "RequiredClass": "druid"
+}

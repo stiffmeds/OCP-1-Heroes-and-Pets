@@ -1,0 +1,15 @@
+{
+    "CombatID": "esecta_4z",
+    "CinematicData": "",
+    "CombatBackground": "Sectarium",
+    "CombatEffect": [],
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T2",
+    "Description": "weakened clone",
+    "EventData": "e_secta4_z",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["","","weakenedclone"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3"
+}

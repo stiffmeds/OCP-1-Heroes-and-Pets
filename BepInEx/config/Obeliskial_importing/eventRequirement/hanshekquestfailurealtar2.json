@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestfailurealtar2",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone has been empowered by two altars! Now you must find out what its whispers are calling to...",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-hanshek",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekpyromancerquest",
+    "AssignToPlayerAtBegin": false,
+    "Description": "Hanshek tricked the old man into revealing that his special staff is located at the main cultist base in Velkarath.",
+    "ItemSprite": "",
+    "RequirementName": "The Special Staff",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-hanshek",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Velkarath"
+}

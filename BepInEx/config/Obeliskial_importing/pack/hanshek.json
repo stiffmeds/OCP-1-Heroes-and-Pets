@@ -1,0 +1,15 @@
+{
+    "Card0": "hanshekshadowclone",
+    "Card1": "ancientdarknessfear",
+    "Card2": "shadowbolt",
+    "Card3": "ancientdarknessloss",
+    "Card4": "ancientdarknesswither",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Mage",
+    "PackID": "hanshek",
+    "PackName": "Hanshek",
+    "PerkList": [],
+    "RequiredClass": "ritualist"
+}

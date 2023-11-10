@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "werewolfDruidHero",
+    "SkinID": "druidbase",
+    "SkinName": "Charls",
+    "SkinOrder": 0,
+    "SkinSubclass": "druid",
+    "Sku": "",
+    "SpritePortrait": "LoboDruidaAliadoportrait",
+    "SpritePortraitGrande": "LoboDruidaportraitGrande",
+    "SpriteSilueta": "LoboDruidaAliadosilueta",
+    "SpriteSiluetaGrande": "LoboDruidaAliadosiluetaGrande",
+    "SteamStat": ""
+}

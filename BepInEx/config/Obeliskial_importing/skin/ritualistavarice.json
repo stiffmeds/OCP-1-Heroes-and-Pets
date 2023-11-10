@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "skinHanshekAvarice",
+    "SkinID": "ritualistavarice",
+    "SkinName": "Avarice",
+    "SkinOrder": 2,
+    "SkinSubclass": "ritualist",
+    "Sku": "",
+    "SpritePortrait": "ritualistAvariceSpriteSpeed",
+    "SpritePortraitGrande": "ritualistAvariceSpritePortrait",
+    "SpriteSilueta": "ritualistAvariceSpriteBorderSmall",
+    "SpriteSiluetaGrande": "ritualistAvariceSpriteBorder",
+    "SteamStat": ""
+}

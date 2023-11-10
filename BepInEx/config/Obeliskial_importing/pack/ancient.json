@@ -1,0 +1,15 @@
+{
+    "Card0": "ancientdarknessdarkcremation",
+    "Card1": "ancientdarknessfear",
+    "Card2": "ancientdarknessdarklightning",
+    "Card3": "ancientdarknessloss",
+    "Card4": "ancientdarknesswither",
+    "Card5": "ancientdarknessnightfall",
+    "CardSpecial0": "ancientdarknessdarkconstraint",
+    "CardSpecial1": "ancientdarknessamplifiedagony",
+    "PackClass": "Mage",
+    "PackID": "ancient",
+    "PackName": "Ancient",
+    "PerkList": ["mainperkdark2a","mainperkenergy2b","mainperkdecay1c","mainperkshadow1"],
+    "RequiredClass": ""
+}

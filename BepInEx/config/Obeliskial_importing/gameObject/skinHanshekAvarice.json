@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "skinHanshekAvarice",
+    "BaseGameObjectID": "lordhansek",
+    "SpriteToUse": "skinHanshekAvarice",
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Flip": true
+}

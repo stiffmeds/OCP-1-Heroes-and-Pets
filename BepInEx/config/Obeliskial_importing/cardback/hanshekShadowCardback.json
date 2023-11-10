@@ -1,0 +1,15 @@
+{
+    "AdventureLevel": 0,
+    "BaseCardback": false,
+    "CardbackID": "ritualistCardback",
+    "CardbackName": "Monster",
+    "CardbackOrder": 2,
+    "CardbackSprite": "CardBackMonster",
+    "CardbackSubclass": "ritualist",
+    "Locked": false,
+    "ObeliskLevel": 0,
+    "RankLevel": 0,
+    "ShowIfLocked": false,
+    "Sku": "",
+    "SteamStat": ""
+}

@@ -1,0 +1,15 @@
+{
+    "CombatID": "evoidhigh_13z",
+    "CinematicData": "hanshekkill",
+    "CombatBackground": "Void_Boss",
+    "CombatEffect": ["{\n \"AuraCurse\": \"buffer\",\n \"AuraCurseCharges\": 1,\n \"AuraCurseTarget\": \"Heroes\"\n}","{\n \"AuraCurse\": \"inspire\",\n \"AuraCurseCharges\": 1,\n \"AuraCurseTarget\": \"Heroes\"\n}","{\n \"AuraCurse\": \"energize\",\n \"AuraCurseCharges\": 1,\n \"AuraCurseTarget\": \"Heroes\"\n}"],
+    "CombatMusic": "17_Alexander Nakarada - The Crown",
+    "CombatTier": "T13",
+    "Description": "lord hanshek",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["","","lordhanshek",""],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": ""
+}

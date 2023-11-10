@@ -1,0 +1,11 @@
+{
+    "RequirementID": "hanshekquestfailureorb",
+    "AssignToPlayerAtBegin": false,
+    "Description": "The Whispering Stone has been empowered by a corrupted orb! Now you must find out what its whispers are calling to...",
+    "ItemSprite": "",
+    "RequirementName": "The Whispering Stone",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-hanshek",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "VoidLow"
+}

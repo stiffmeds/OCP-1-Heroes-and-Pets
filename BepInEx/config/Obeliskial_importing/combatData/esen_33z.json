@@ -1,0 +1,15 @@
+{
+    "CombatID": "esen_33z",
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_BosqueBoss",
+    "CombatEffect": ["{\n \"AuraCurse\": \"shackle\",\n \"AuraCurseCharges\": 1,\n \"AuraCurseTarget\": \"Monsters\"\n}","{\n \"AuraCurse\": \"dark\",\n \"AuraCurseCharges\": 2,\n \"AuraCurseTarget\": \"Monsters\"\n}"],
+    "CombatMusic": "22_Alexander Nakarada - The Wandering King",
+    "CombatTier": "T2",
+    "Description": "arbol event",
+    "EventData": "e_sen33_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["taintedtrunky","tainteddryad","ylmer"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4"
+}

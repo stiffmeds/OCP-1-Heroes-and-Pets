@@ -1,0 +1,11 @@
+{
+    "RequirementID": "charlsquest",
+    "AssignToPlayerAtBegin": false,
+    "Description": "Charls says he will join you on your adventures if you pay for him to retire to a tropical island afterwards.",
+    "ItemSprite": "",
+    "RequirementName": "Retirement Fund",
+    "RequirementTrack": true,
+    "TrackSprite": "medsquest-charls",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "Faeborg"
+}

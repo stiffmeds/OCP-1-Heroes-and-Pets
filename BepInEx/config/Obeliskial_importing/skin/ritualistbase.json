@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "skinHanshekLord",
+    "SkinID": "ritualistbase",
+    "SkinName": "Lord",
+    "SkinOrder": 0,
+    "SkinSubclass": "ritualist",
+    "Sku": "",
+    "SpritePortrait": "ritualistSpriteSpeed",
+    "SpritePortraitGrande": "ritualistSpritePortrait",
+    "SpriteSilueta": "ritualistSpriteBorderSmall",
+    "SpriteSiluetaGrande": "ritualistSpriteBorder",
+    "SteamStat": ""
+}

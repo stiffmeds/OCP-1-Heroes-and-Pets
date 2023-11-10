@@ -1,0 +1,15 @@
+{
+    "BaseSkin": false,
+    "PerkLevel": 0,
+    "SkinGO": "skinHanshekEnvy",
+    "SkinID": "ritualistenvy",
+    "SkinName": "Envy",
+    "SkinOrder": 3,
+    "SkinSubclass": "ritualist",
+    "Sku": "",
+    "SpritePortrait": "ritualistEnvySpriteSpeed",
+    "SpritePortraitGrande": "ritualistEnvySpritePortrait",
+    "SpriteSilueta": "ritualistEnvySpriteBorderSmall",
+    "SpriteSiluetaGrande": "ritualistEnvySpriteBorder",
+    "SteamStat": ""
+}

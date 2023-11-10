@@ -1,0 +1,15 @@
+{
+    "CombatID": "efaen_29y",
+    "CinematicData": "",
+    "CombatBackground": "Faeborg_Armeria",
+    "CombatEffect": ["{\n \"AuraCurse\": \"chill\",\n \"AuraCurseCharges\": 11,\n \"AuraCurseTarget\": \"Heroes\"\n}","{\n \"AuraCurse\": \"shield\",\n \"AuraCurseCharges\": 16,\n \"AuraCurseTarget\": \"Heroes\"\n}","{\n \"AuraCurse\": \"regeneration\",\n \"AuraCurseCharges\": 6,\n \"AuraCurseTarget\": \"Heroes\"\n}"],
+    "CombatMusic": "Dragonquest - 320bit",
+    "CombatTier": "T4",
+    "Description": "combat dragonlord",
+    "EventData": "e_faen29_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["draconoid","draconoid","graendor",""],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T3"
+}
