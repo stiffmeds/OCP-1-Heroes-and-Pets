@@ -1,10 +1,10 @@
 {
     "name": "OCP_1_Heroes_and_Pets",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/stiffmeds/OCP-1-Heroes-and-Pets",
     "description": "3 new heroes, 2 new pets, 4 new quests and some poetry.",
     "dependencies": [
-        "meds-Obeliskial_Essentials-1.0.0",
-        "meds-Obeliskial_Content-1.0.0"
+        "meds-Obeliskial_Essentials-1.0.2",
+        "meds-Obeliskial_Content-1.0.2"
     ]
 }
