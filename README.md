@@ -72,7 +72,7 @@ A content pack for [Obeliskial Content](https://across-the-obelisk.thunderstore.
 
 ### Level 4
 
-![Peaceful Retirement](https://i.imgur.com/juJii2J.png)   or   ![Mandatory Retirement](https://i.imgur.com/m9wdUat.png)
+![Peaceful Retirement](https://i.imgur.com/h4KDOj5.png)   or   ![Mandatory Retirement](https://i.imgur.com/xfKuaND.png)
 
 ### Level 5
 

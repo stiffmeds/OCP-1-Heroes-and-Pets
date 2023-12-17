@@ -1,0 +1,22 @@
+{
+	"Name": "OCP1 - Heroes and Pets",
+	"Author": "stiffmeds",
+	"Description": "3 new heroes, 2 new pets, 4 new quests and some poetry.",
+	"Version": "1.0.3",
+	"Date": 20231217,
+	"Link": "https://across-the-obelisk.thunderstore.io/package/dudebrobelisk/Act_1_Alternate_Subzone/",
+	"Dependencies": [
+		"stiffmeds-Obeliskial_Content-1.1.0"
+	],
+	"ContentFolder": "OCP1 Heroes and Pets",
+	"Priority": 100,
+	"Type": [
+		"hero",
+		"card",
+		"item",
+		"quest",
+		"event"
+	],
+	"Comment": "",
+	"Enabled": true
+}

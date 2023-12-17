@@ -1,3 +1,0 @@
-OCP #1: Heroes and Pets
-1.0.2
-20231114
