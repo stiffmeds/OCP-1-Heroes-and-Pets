@@ -1,3 +1,7 @@
+# 1.0.4
+
+Fixed Hanshek's Shadow Clone not upgrading when he ranks up (thanks @FlaksOut!).
+
 # 1.0.3
 
 Update for Obeliskial Content v1.1.0.
